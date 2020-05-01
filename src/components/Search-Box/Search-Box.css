@@ -1,0 +1,12 @@
+.search {
+  margin: 20px 0;
+  padding: 2px 5px;
+  border-radius: 5px;
+  border-color: teal;
+  border-style: solid;
+  width: 150px;
+}
+
+.search:hover {
+  transform: scaleX(1.1) translateX(-2px);
+}
